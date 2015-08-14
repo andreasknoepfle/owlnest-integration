@@ -1,6 +1,6 @@
 # Gitlab CI with Extraction Framework Validation
 - Install Owlnest https://github.com/andreasknoepfle/docker-owlnest
-- Install Gitlab-CI
+- Install Gitlab-CI with the same version as Owlnest Gitlab (currently 7.9 branch)
 - Install Gitlab-Runner
 - Install Maven and Checkout the extraction frameworkl
 
